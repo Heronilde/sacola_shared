@@ -1,4 +1,4 @@
-import 'package:shared/shared.dart';
+import 'package:sacola_shared/shared.dart';
 
 void main() {
   var awesome = Awesome();
